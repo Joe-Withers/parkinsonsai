@@ -1,4 +1,4 @@
-# parkinsonsai
+# parkinsonsai - incomplete
 Android app - predicts Parkinson patient's UPDRS scores from voice recordings of the patient.
 
 ## app_android
